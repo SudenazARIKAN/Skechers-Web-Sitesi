@@ -1,0 +1,18 @@
+{
+  "products": {
+    "product1": {
+      "name": "Kadın Beyaz Sneakers",
+      "price": 3699.00
+      
+    },
+    "product2": {
+      "name": "Erkek Haki Outdoor Ayakkabı",
+      "price": 3799.00
+    },
+    "product3": {
+      "name": "Büyük Kız Çocuk Beyaz Işıklı Spor Ayakkabı",
+      "price": 1649.00
+    }
+  },
+  "basket": {}
+}
